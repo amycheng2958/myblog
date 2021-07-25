@@ -1,4 +1,4 @@
-# resume page
+# 个人简历
 
 #### https://amycheng2958.github.io/myblog/
 
